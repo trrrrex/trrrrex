@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ### STUDENT PROGRESS
-get_next_line <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clufmqxjj3401601p4odvg7wju/stats?cursusId=21&coalitionId=206" alt="aavramen's 42 stats" /></a>
+ <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clufmqxjj3401601p4odvg7wju/stats?cursusId=21&coalitionId=206" alt="aavramen's 42 stats" /></a>
 
-libft <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clufmqxjj3401601p4odvg7wju/project/3522091" alt="aavramen's 42 ft_printf Score" /></a>
+get_next_line <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clufmqxjj3401601p4odvg7wju/project/3522091" alt="aavramen's 42 ft_printf Score" /></a>
 
 ft_printf <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clufmqxjj3401601p4odvg7wju/project/3503919" alt="aavramen's 42 get_next_line Score" /></a>
 
