@@ -1,6 +1,9 @@
-### Welcome, my name is Anna, I am current 42 Barcelona student. 
-intra: aavramen
+### Welcome, my name is Anna, I am exploring programming by creating numerous small projects.
+ATM I am able to proram on entry/junior level using C, C#, Java Script and Python. Currently learning C++ and React.
 
+Ex-42Barcelona student (intra: aavramen)
+
+Currently working on 7 minigames, each is very unique. This way I want to deep down to the gamedev basics, will use GoDot first (to understand the game logic better) and after that I plan to rebuild each of the games using Unity (to obtein market-valuable skills).  
 <!--
 **trrrrex/trrrrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
