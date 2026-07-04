@@ -1,4 +1,4 @@
-### Welcome, my name is Anna, I am exploring programming by creating numerous small projects.
+### Welcome, my name is Anna, I am still learning and exploring programming world and all the areas :)
 
 **RIGHT NOW programming 7 mini-games** (6 left) — each one a different genre with unique mechanics, all built in GoDot.
 
