@@ -4,7 +4,7 @@
 
 **Fun fact:** I discovered GoDot about 20 hours ago, and this is literally my first code. 😄
 
-**The goal? **Learn gamedev logic and architecture through these 7 games. Once they're done, I plan to rewrite them in C++ on Unix — that way, I'll already have the problem-solving experience, and can focus on the harder stuff (C++ itself) instead of figuring out how to make a game work.
+**The goal?** Learn gamedev logic and architecture through these 7 games. Once they're done, I plan to rewrite them in C++ on Unix — that way, I'll already have the problem-solving experience, and can focus on the harder stuff (C++ itself) instead of figuring out how to make a game work.
 
 ATM I am able to proram on entry/junior level using C, C#, Java Script and Python. Currently learning C++ and React.
 
